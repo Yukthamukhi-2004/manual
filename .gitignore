@@ -1,0 +1,11 @@
+frontend/node_modules/
+backend/venv
+backend/__pycache__
+backend/app/__pycache__
+backend/app/main.pyc
+backend/app/main.pyo
+backend/app/main.pyd
+backend/app/main.pyw
+backend/app/main.pyz
+backend/app/main.pywz
+backend/app/main.pyz
